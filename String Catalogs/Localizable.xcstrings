@@ -1,0 +1,94 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Accessibility" : {
+      "comment" : "Show Accessiblity Settings",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barrierefreiheit"
+          }
+        }
+      }
+    },
+    "Control Center" : {
+      "comment" : "Show Control Center settings",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontrollzentrum"
+          }
+        }
+      }
+    },
+    "Display & Brightness" : {
+      "comment" : "Show display settings",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildschirmhelligkeit"
+          }
+        }
+      }
+    },
+    "Emergency SOS" : {
+      "comment" : "Show Emergency SOS Settings",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notfall-SOS"
+          }
+        }
+      }
+    },
+    "Face ID" : {
+      "comment" : "Show Face ID Settings",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesichtserkennung"
+          }
+        }
+      }
+    },
+    "General" : {
+      "comment" : "Show General settings",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemein"
+          }
+        }
+      }
+    },
+    "Home Screen" : {
+      "comment" : "Show home screen settings",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Startbildschirm"
+          }
+        }
+      }
+    },
+    "Wallpaper" : {
+      "comment" : "Show Wallpaper settings",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintergrund"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

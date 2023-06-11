@@ -11,6 +11,7 @@
 		76083D922A351D8300FA03AE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76083D912A351D8300FA03AE /* ContentView.swift */; };
 		76083D942A351D8400FA03AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76083D932A351D8400FA03AE /* Assets.xcassets */; };
 		76083D982A351D8400FA03AE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76083D972A351D8400FA03AE /* Preview Assets.xcassets */; };
+		76083DA32A35509300FA03AE /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 76083DA22A35509300FA03AE /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		76083D932A351D8400FA03AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76083D952A351D8400FA03AE /* String_Catalogs.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = String_Catalogs.entitlements; sourceTree = "<group>"; };
 		76083D972A351D8400FA03AE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		76083DA22A35509300FA03AE /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				76083D8F2A351D8300FA03AE /* String_CatalogsApp.swift */,
 				76083D912A351D8300FA03AE /* ContentView.swift */,
 				76083D932A351D8400FA03AE /* Assets.xcassets */,
+				76083DA22A35509300FA03AE /* Localizable.xcstrings */,
 				76083D952A351D8400FA03AE /* String_Catalogs.entitlements */,
 				76083D962A351D8400FA03AE /* Preview Content */,
 			);
@@ -111,6 +114,7 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
 			);
 			mainGroup = 76083D832A351D8300FA03AE;
 			productRefGroup = 76083D8D2A351D8300FA03AE /* Products */;
@@ -129,6 +133,7 @@
 			files = (
 				76083D982A351D8400FA03AE /* Preview Assets.xcassets in Resources */,
 				76083D942A351D8400FA03AE /* Assets.xcassets in Resources */,
+				76083DA32A35509300FA03AE /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
