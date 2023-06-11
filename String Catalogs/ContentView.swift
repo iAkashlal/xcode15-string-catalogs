@@ -11,14 +11,14 @@ struct ContentView: View {
     
     var body: some View {
         List {
-            Text("General")
-            Text("Control Center")
-            Text("Display & Brightness")
-            Text("Home Screen")
-            Text("Accessibility")
-            Text("Wallpaper")
-            Text("FaceID")
-            Text("Emergency SOS")
+            Text("General", comment: "Show General settings")
+            Text("Control Center", comment: "Show Control Center settings")
+            Text("Display & Brightness", comment: "Show display settings")
+            Text("Home Screen", comment: "Show home screen settings")
+            Text("Accessibility", comment: "Show Accessiblity Settings")
+            Text("Wallpaper", comment: "Show Wallpaper settings")
+            Text("FaceID", comment: "Show Face ID Settings")
+            Text("Emergency SOS", comment: "Show Emergency SOS Settings")
         }
         .padding()
     }
