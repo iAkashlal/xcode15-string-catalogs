@@ -17,7 +17,7 @@ struct ContentView: View {
             Text("Home Screen", comment: "Show home screen settings")
             Text("Accessibility", comment: "Show Accessiblity Settings")
             Text("Wallpaper", comment: "Show Wallpaper settings")
-            Text("FaceID", comment: "Show Face ID Settings")
+            Text("Face ID", comment: "Show Face ID Settings")
             Text("Emergency SOS", comment: "Show Emergency SOS Settings")
         }
         .padding()

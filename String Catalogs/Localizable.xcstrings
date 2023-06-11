@@ -39,13 +39,13 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Notfall-SOS"
           }
         }
       }
     },
-    "FaceID" : {
+    "Face ID" : {
       "comment" : "Show Face ID Settings",
       "localizations" : {
         "de" : {
