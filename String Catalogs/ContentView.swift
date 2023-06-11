@@ -9,25 +9,16 @@ import SwiftUI
 
 struct ContentView: View {
     
-    var menuList: [String] = [
-    "General",
-    "Control Center",
-    "Display & Brightness",
-    "Home Screen",
-    "Accessibility",
-    "Wallpaper",
-    "Face ID",
-    "Emergency SOS",
-    "Exposure Notifications",
-    "Battery",
-    "Privacy & Security"
-    ]
-    
     var body: some View {
         List {
-            ForEach(menuList, id: \.self) { menuItem in
-                Text(menuItem)
-            }
+            Text("General")
+            Text("Control Center")
+            Text("Display & Brightness")
+            Text("Home Screen")
+            Text("Accessibility")
+            Text("Wallpaper")
+            Text("FaceID")
+            Text("Emergency SOS")
         }
         .padding()
     }
